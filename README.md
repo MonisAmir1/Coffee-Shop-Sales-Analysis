@@ -53,4 +53,4 @@ Alex Freberg
 TOOLS USED:
 Microsoft Excel
 
-hashtag#DataAnalytics hashtag#DataAnalyst hashtag#ExcelProject hashtag#DataVisualization hashtag#BusinessIntelligence hashtag#SalesAnalysis hashtag#DataAnalysis hashtag#DataDrivenDecisions
+#DataAnalytics #DataAnalyst #ExcelProject #DataVisualization #BusinessIntelligence #SalesAnalysis DataAnalysis DataDrivenDecisions
