@@ -45,11 +45,6 @@ VISUALIZATION 📊
 
 While it's a significant milestone for me, I recognize that there's always room for growth and improvement. Your feedback and insights are invaluable to me as I continue to refine my skills and tackle future projects. I'm eager to hear your thoughts and suggestions on how I can make my next endeavor even more impactful and insightful.
 
-THANKS TO:
-WsCube Tech
-Mo Chen
-Alex Freberg
-
 TOOLS USED:
 Microsoft Excel
 
